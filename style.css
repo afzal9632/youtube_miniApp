@@ -1,0 +1,15 @@
+#videos{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);  
+    gap: 5%;
+}
+#query{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+button{
+    border-radius: 7px;
+    border: none;
+    background-color: red;
+    color: white;
+}
